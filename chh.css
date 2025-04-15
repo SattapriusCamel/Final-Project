@@ -1,0 +1,15 @@
+.color1 {
+    color: white;
+}
+.color1:hover {
+    border-bottom: 3px dotted #ffffff;
+    transition: 0.6s ease;
+    color: maroon;
+    text-decoration: none;
+}
+#navbar {
+    background-color: black;
+}
+body {
+    background-color: beige;
+}
