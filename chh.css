@@ -10,6 +10,13 @@
 #navbar {
     background-color: black;
 }
-body {
-    background-color: beige;
+#socials {
+    background-color: rgb(42, 43, 45);
+}
+.media_link {
+    padding-left: 20px ;
+    width: 75px;
+    margin-left: 2rem;
+    border: 4px groove royalblue;
+    border-radius: 1rem;
 }
